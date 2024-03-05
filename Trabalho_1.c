@@ -1,3 +1,6 @@
+//perplexity
+//https://www.h-schmidt.net/FloatConverter/IEEE754.html
+
 #include <stdio.h>
 #include <math.h>
 #include <stdbool.h>
